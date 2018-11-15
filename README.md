@@ -7,6 +7,6 @@ This UI glue created to Gmail "Default" and "Comfortable" view. For the best res
 
 To implement this look, you need to use GreaseMonkey in Firefox and Tampermonkey in Chrome, browser extensions that allow you to load scripts on demand and modify how pages behave and respond.
 
-In these editors you can add, remove or modify any little part in css. 
+In these extension's editor you can add, remove or modify any little part of this code in css. 
 
 source: https://www.dedoimedo.com/computers/gmail-new-looks-change.html
