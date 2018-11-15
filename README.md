@@ -1,4 +1,4 @@
-# Gmail-2018-Minimal-UI
+# Gmail 2018 Minimal UI
 Change Gmail 2018 new look to this simplified view - Google Suite Edition.
 You can use this solution if you struggled Google Gmail's new 2018 look also. 
 
