@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name Gmail 2018 Minimal UI
 // @description Change Gmail 2018 new look to minimal view - Google Suite editon
-// @description created by David Koltai
+// @author 2Pixels Studio
+// @license GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @include https://mail.google.com/mail*
 // @version 0.2
 // ==/UserScript==
