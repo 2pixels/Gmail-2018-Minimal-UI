@@ -3,7 +3,7 @@
 // @description Change Gmail 2018 new look to minimal view - Google Suite editon
 // @description created by David Koltai
 // @include https://mail.google.com/mail*
-// @version 0.1
+// @version 0.2
 // ==/UserScript==
 
 (function() {
@@ -17,6 +17,8 @@ style.type = 'text/css';
 style.innerHTML = css;
 head.appendChild(style);
 }
+//change back fontface if you want
+//addGlobalStyle('* { font-family: sans-serif !important; font-size: 10pt !important; }');
 //remove icons from left sidebar
 addGlobalStyle(".qj { display:none!important; }");
 addGlobalStyle(".bhZ .qj { display:flex!important; }");
@@ -29,7 +31,7 @@ addGlobalStyle(".gb_bc { transform: translateX(-50px); }");
 addGlobalStyle(".gb_ic { z-index: 20 !important; background-color: #fff !important; }");
 //change compose button
 addGlobalStyle(".z0>.L3 { background-color: #D44937 !important; box-shadow: inherit !important; height: 40px !important; color: #fff !important; padding: 0 30px !important; }");
-//change compose button part II.
+//change compose button part II. - uppercase option
 //addGlobalStyle(".z0>.L3 { font-size:0.7rem !important; text-transform:uppercase !important; letter-spacing:1px !important;}");
 //change compose button content to "+"
 addGlobalStyle(".z0>.L3::before { display:none!important; }");
@@ -43,6 +45,8 @@ addGlobalStyle(".gb_Sa { display: none !important; }");
 //reduce tabulators data
 addGlobalStyle(".aPb .J-KU-KO.aE2 .aKx, .aE2 .aKx {top: 11px !important;}");
 addGlobalStyle(".aKs {display: none !important;}");
+//change selected tabulator marker line
+addGlobalStyle(".J-KU-KO.aAy:before { border-top-left-radius: 0!important; border-top-right-radius: 0!important; top: 0; bottom:initial!important; margin: 0!important;");
 //header bar
 addGlobalStyle(".G-atb {height: 68px!important;}");
 //search mail field
