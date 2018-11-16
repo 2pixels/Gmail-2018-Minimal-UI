@@ -1,9 +1,9 @@
 # Gmail 2018 Minimal UI
-Change Gmail 2018 new look to this simplified view - Google Suite Edition.
-You can use this solution if you struggled Google Gmail's new 2018 look as well.
+Change Gmail's 2018 new look to this simplified view.
+You can use this solution if you struggle with Google Gmail's new look as well.
 
 # How to use
-This UI glue created to Gmail "Default" and "Comfortable" view. For the best results, you should set your Gmail "Display density" setting to one of these two options. 
+This UI glue created for Gmail's "Default" and "Comfortable" view. For the best results, you should set your Gmail "Display density" setting to one of those two options. 
 
 To implement this look, you need to use GreaseMonkey in Firefox and Tampermonkey in Chrome, browser extensions that allow you to load scripts on demand and modify how pages behave and respond.
 
