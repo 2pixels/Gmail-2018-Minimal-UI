@@ -14,4 +14,16 @@ To implement this look, you need to use GreaseMonkey in Firefox and Tampermonkey
 
 In these extensions' editor you can add, remove or modify any little part of this code in css. 
 
+## Preview
+opened sidebar
+![image](/preview/gmail-minimal-ui.jpg)
+
+closed sidebar
+![image](/preview/gmail-minimal-ui-closed-sidebar.jpg)
+
+## Other settings
+You can change some extra parts of your Gmail UI to minimize it further. 
+- Hide the right side panel with the bottom right button.
+- Settings » General » Button labels » Text
+
 source: https://www.dedoimedo.com/computers/gmail-new-looks-change.html
