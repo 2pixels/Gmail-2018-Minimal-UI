@@ -1,6 +1,5 @@
 # Google Gmail 2018 Minimal UI
-Change Gmail's 2018 new look to this simplified view.
-You can use this solution if you struggle with Google Gmail's new look as well.
+You can use this solution if you struggle with Google Gmail's new look as well. Change Gmail's 2018 new look to this simplified view.
 
 ## Installation
 Install an userscript manager to your default browser - use [Tampermonkey](http://bit.ly/2Tiqwpd) extension in Chrome or [GreaseMonkey](https://mzl.la/2QNPivC) addon in Firefox.
