@@ -4,7 +4,7 @@
 // @author 2Pixels Studio
 // @license GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @include https://mail.google.com/mail*
-// @version 0.2
+// @version 0.2.1
 // ==/UserScript==
 
 (function() {
