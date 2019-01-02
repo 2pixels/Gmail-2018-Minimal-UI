@@ -41,8 +41,8 @@ addGlobalStyle(".z0 {padding: 0 0 0 20px !important; }");
 //minimalize to circle the compose button
 addGlobalStyle(".bhZ:not(.bym) .z0>.L3 {font-size: 0!important; width: 40px!important; min-width: 40px!important; padding: 0px!important; }");
 //hide google suite logo right top
-addGlobalStyle(".gb_Ra { border: 0 !important; width:48px !important; }");
-addGlobalStyle(".gb_Sa { display: none !important; }");
+addGlobalStyle(".gb_Sa { border: 0 !important; width:48px !important; }");
+addGlobalStyle(".gb_Ta { display: none !important; }");
 //reduce tabulators data
 addGlobalStyle(".aPb .J-KU-KO.aE2 .aKx, .aE2 .aKx {top: 11px !important;}");
 addGlobalStyle(".aKs {display: none !important;}");
