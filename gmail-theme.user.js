@@ -4,7 +4,7 @@
 // @author 2Pixels Studio
 // @license GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @include https://mail.google.com/mail*
-// @version 0.2.1
+// @version 0.2.2
 // ==/UserScript==
 
 (function() {
@@ -58,4 +58,6 @@ addGlobalStyle(".x7 { background: #eef0f3!important; }");
 addGlobalStyle(".zA>.PE.PF::before { background: transparent!important; }");
 //selected email hover shadow
 addGlobalStyle(".zA:hover { webkit-box-shadow: inset 1px 0 0 #dadce0, inset -1px 0 0 #dadce0, 0 1px 20px 0 rgba(60,64,67,.1), 0 1px 20px 1px rgba(60,64,67,.1) !important; box-shadow: inset 1px 0 0 #dadce0, inset 0px 0 0 #dadce0, 0 1px 20px 0 rgba(60,64,67,.1), 0 1px 20px 1px rgba(60,64,67,.1)!important; }");
+//message box - reduce border radius
+addGlobalStyle(".HM .I5 { -webkit-border-radius: 4px!important; border-radius: 4px!important;}");
 })();
